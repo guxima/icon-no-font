@@ -1,14 +1,14 @@
 {
   "name": "icon-no-font",
   "version": "1.0.0",
-  "description": "",
+  "description": "make icon without font family, just use html entities",
   "main": "index.js",
   "scripts": {
     "start": "node dev.js",
     "build": "node dev.js --build",
     "test": "opn test/test.html"
   },
-  "keywords": [],
+  "keywords": ["html entities", "html icon"],
   "author": "todd.ma <todd.ma@qunar.com>",
   "license": "ISC",
   "dependencies": {},
