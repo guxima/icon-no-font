@@ -33,6 +33,6 @@
 
 ## icon show
 
-本地运行`npm t`打开预览页面查看所有图标及样式名。
+[在线预览](http://guxima.github.io/icon-no-font-demo/)或本地运行`npm t`打开预览页面查看所有图标及样式名。
 
 ##  &olt;  &opar;  &ogt;  &olcir;  &ofcir;  &otimes;  &ominus; ...
