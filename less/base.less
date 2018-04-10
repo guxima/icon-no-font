@@ -1,0 +1,12 @@
+.setAfterContent(@content){
+    &::after{
+        content: @content;
+    }
+}
+.icon-no-font{
+    font:normal 0 Georgia,"Apple Symbols",serif;
+    &::before,
+    &::after{
+        font-size: 32px;
+    }
+}
