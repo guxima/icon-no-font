@@ -31,6 +31,7 @@
 - *npm i*
 - *npm start* 此时会打开调试用的页面，并开启*livereload*
 - 修改*less*目录下*base.less*、*complex.less*或*html-entities.json*，保存后自动重新编译生成**icon-no-font.css**
+- 在*test/test.html*中增加标签应用新增的class
 
 ## icon show
 
