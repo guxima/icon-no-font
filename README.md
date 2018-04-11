@@ -17,6 +17,7 @@
 
 - 方法一：在项目中直接引用**icon-no-font.css**文件。
 - 方法二：自定义修改**html-entities.json**中html实体字符配置，运行`npm run build`重新生成**icon-no-font.css**。
+- 页面上引用`<i class=".icon-no-font-olt">返回</i>`
 
 ## 二次开发
 
