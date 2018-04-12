@@ -5,6 +5,9 @@
 .icon-no-font::after {
   font-size: 32px;
 }
+.icon-no-font-iexcl::after {
+  content: '\A1';
+}
 .icon-no-font-times::after {
   content: '\D7';
 }
@@ -348,6 +351,6 @@
   position: absolute;
   left: 0;
   width: 100%;
-  content: '!';
+  content: '\A1';
   transform: scale(0.5);
 }
